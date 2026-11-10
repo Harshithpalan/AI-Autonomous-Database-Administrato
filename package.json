@@ -1,0 +1,19 @@
+{
+  "name": "AI-Autonomous-Database-Administrato",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@sqltools/formatter": "^1.2.5",
+    "mysql2": "^3.24.6",
+    "nuxt": "^4.6.4",
+    "vue": "^3.5.45",
+    "vue-router": "^5.4.0"
+  }
+}
